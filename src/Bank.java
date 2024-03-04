@@ -11,6 +11,11 @@ public class Bank {
     //public void Deposit(){}
 
 
-    //public int Balance(){}
+    public int Balance(int accountNo){
+        if(this.accountNo==accountNo){
+            System.out.println("name = " + name);
+            System.out.println("balance amount" + amount);
+        
+    }
 
 }
