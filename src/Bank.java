@@ -8,7 +8,9 @@ public class Bank {
         this.amount=amount;
     }
 
-    //public void Deposit(){}
+    public void Deposit(){
+        //hi ippudu code chesey opika ledu
+    }
 
 
     public void Balance(int accountNo){
